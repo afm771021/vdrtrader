@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_vdr_module_vdr_module,vdr_module.vdr_module,model_vdr_module_vdr_module,base.group_user,1,1,1,1
